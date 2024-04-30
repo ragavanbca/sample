@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         fontFamily: 'Sen',
       ),
-      home: const HomePage(),
+      home: HomePage(),
     );
   }
 }
